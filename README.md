@@ -12,9 +12,8 @@ This repository contains my personal Linux configuration files (`.bashrc` and `.
 ## How to Apply
 1. Clone the repository:
 ```bash
-git clone [https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git](https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git)
+git clone https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git
 ```
-
 
 
 
