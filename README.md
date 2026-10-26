@@ -6,13 +6,14 @@ Custom dotfiles and desktop configurations for my Grade 9 discovery project. Thi
 This repository contains my personal Linux configuration files (`.bashrc` and `.config`), tailored to customize Ubuntu KDE with a seamless desktop interface.
 
 ## What's Included
-* **`.bashrc`**: Custom shell aliases, prompts, and environment settings.
-* **`config/`**: KDE application settings and desktop theme configurations.
+- **`.bashrc`**: Custom shell aliases, prompts, and environment settings.
+- **`config/`**: KDE application settings and desktop theme configurations.
 
 ## How to Apply
 1. Clone the repository:
 ```bash
 git clone [https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git](https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git)
+```
 
 
 
