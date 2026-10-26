@@ -20,4 +20,5 @@ I have attached screenshots of the desktop below
 
 <img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 36 30" src="https://github.com/user-attachments/assets/1de34647-8249-4120-82d5-9928827b73cd" />
 
-<img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 37 25" src="https://github.com/user-attachments/assets/e3a781ba-6102-45d5-ab14-e6416d1d461d" />
+<img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 38 14" src="https://github.com/user-attachments/assets/31dde92f-e723-47ce-9945-b0b0c6489383" />
+
