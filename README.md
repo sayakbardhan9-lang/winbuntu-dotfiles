@@ -19,6 +19,5 @@ I have attached screenshots of the desktop below
 <img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 35 54" src="https://github.com/user-attachments/assets/0d68f535-1b9a-4021-abc2-49abdbd62e14" />
 
 <img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 36 30" src="https://github.com/user-attachments/assets/1de34647-8249-4120-82d5-9928827b73cd" />
-/assets/96816282-7bef-46e0-ae64-df04f80ab9e5" />
 
 <img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 37 25" src="https://github.com/user-attachments/assets/e3a781ba-6102-45d5-ab14-e6416d1d461d" />
