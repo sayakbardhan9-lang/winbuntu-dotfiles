@@ -1,7 +1,6 @@
 # Winbuntu Dotfiles
 
-Custom dotfiles and desktop configurations for my Grade 9 discovery project. This current repository contains the dotfiles for my Kubuntu configuration, made to look identical to Windows. 
-This is aimed to help New linux users transitioning from Windows to Linux for the first time.
+Custom dotfiles and desktop configurations for my Grade 9 discovery project. This repository contains dotfiles for my Kubuntu configuration, made to look identical to Windows. This is aimed to help new Linux users transitioning from Windows to Linux for the first time.
 
 ## Overview
 This repository contains my personal Linux configuration files (`.bashrc` and `.config`), tailored to customize Ubuntu KDE with a seamless desktop interface.
@@ -12,8 +11,15 @@ This repository contains my personal Linux configuration files (`.bashrc` and `.
 
 ## How to Apply
 1. Clone the repository:
-   ```bash
+```bash
 git clone [https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git](https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git)
+
+
+
+
+
+
+
 
 ## 📷 Desktop Screenshots
 <img width="1440" height="900" alt="Screenshot 2026-10-26 at 12 35 54" src="https://github.com/user-attachments/assets/0d68f535-1b9a-4021-abc2-49abdbd62e14" />
