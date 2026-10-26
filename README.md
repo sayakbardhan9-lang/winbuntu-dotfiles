@@ -8,17 +8,26 @@ This repository contains my personal Linux configuration files (`.bashrc` and `.
 ## What's Included
 - **`.bashrc`**: Custom shell aliases, prompts, and environment settings.
 - **`config/`**: KDE application settings and desktop theme configurations.
+- **`install.sh`**: Automated installer script that handles configuration backups and symbolic linking.
 
 ## How to Apply
-1. Clone the repository:
+To apply these configurations to your system, open your terminal and run the following commands sequentially:
+
 ```bash
+# 1. Clone the repository
 git clone https://github.com/sayakbardhan9-lang/winbuntu-dotfiles.git
+
+# 2. Enter the project folder
+cd winbuntu-dotfiles
+
+# 3. Run the installer script
+./install.sh
 ```
 
-
-
-
-
+### What the installer does behind the scenes:
+* **Automatic Backups:** Creates a dated backup folder (`~/winbuntu_backup_...`) containing your original settings so you never lose data.
+* **Smart Symlinking:** Links the repository files directly to your system's `~/.config` directory.
+* **Desktop Auto-Refresh:** Restarts the KDE Plasma shell automatically so the Windows layout renders instantly without needing to log out.
 
 
 ## 📷 Desktop Screenshots
