@@ -111,8 +111,11 @@ ForegroundVisited=115,52,188
 ColorSchemeHash=eac9dd634845c46d6f92ac29b550199e24047df2
 accentColorFromWallpaper=false
 
+[Icons]
+Theme=Windows-Eleven
+
 [KDE]
-AnimationDurationFactor=2
+AnimationDurationFactor=4
 LookAndFeelPackage=windows-eleven-Dark
 
 [KFileDialog Settings]
